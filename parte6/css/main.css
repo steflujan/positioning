@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+div{
+	width:200px;
+	height:200px;
+}
+.uno {
+	background-color: #ee3e64;
+}
+.dos {
+	background-color: #44accf;
+	position:absolute;
+	right:880px;
+}
+.tres {
+	background-color: #b7d84b;
+}
+.cuatro {
+	background-color: yellow;
+}
